@@ -33,7 +33,7 @@ sudo pacman -Sy zsh tmux neovim python-pynvim neofetch python-pip
 sudo pacman -Sy weechat audacity mpv mplayer vlc ffmpeg openshot uget aria2 xsel xclip
 sudo pacman -Sy ttf-wps-fonts calibre
 sudo pacman -Sy fcitx5 fcitx5-chinese-addons fcitx5-qt kcm-fcitx5 fcitx5-im fcitx5-pinyin-zhwiki fcitx5-material-color fcitx5-rime
-sudo pacman -Sy graphviz
+sudo pacman -Sy graphviz wget curl dnscrypt-proxy unbound
 # https://mirrors.tuna.tsinghua.edu.cn/help/AUR/
 yay --aururl "https://aur.tuna.tsinghua.edu.cn" --save
 yay -Sy wps-office-cn xmind-zen vscode-bin astah-professional
