@@ -28,7 +28,7 @@ sudo pacman -Sy archlinux-keyring archlinuxcn-keyring yay \
 		base-devel devtools ctags cscope gcc minicom python-pynvim python-pip \
 		zsh tmux neovim visual-studio-code-bin  \
 		polipo tor proxychains dnscrypt-proxy unbound \
-		firefox thunar xfce4-terminal lxappearance arc-gtk-theme arc-icon-theme \
+		firefox thunar xfce4-terminal lxappearance arc-gtk-theme arc-icon-theme alsa-utils\
 		weechat audacity mpv mplayer vlc ffmpeg openshot uget aria2 xsel xclip calibre \
 		veracrypt graphviz wget curl  neofetch 
 # sudo pacman -Sy fcitx fcitx-rime fcitx-gtk2 fcitx-gtk3 fcitx-qt4 fcitx-qt5 fcitx-configtool
